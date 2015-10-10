@@ -64,3 +64,7 @@ input[type='submit'] {
   width: 50px;
   height: 50px;
 }
+
+.mpixel {
+  background-color: black;
+}
