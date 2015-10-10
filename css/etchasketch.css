@@ -39,8 +39,7 @@ h1 {
   margin-left: 50px;
 }
 
-#draw {
-  margin-left: 50px;
+input[type='submit'] {
   background-color: grey;
   border: none;
   height: 30px;
@@ -49,6 +48,13 @@ h1 {
   font-weight: bold;
 }
 
+#draw {
+  margin-left: 50px;
+}
+
+#reset {
+  margin-left: 25px;
+}
 .row {
   display: inline-block;
 }
@@ -57,5 +63,4 @@ h1 {
   border: 1px solid black;
   width: 50px;
   height: 50px;
-
 }
