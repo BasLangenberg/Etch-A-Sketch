@@ -38,7 +38,7 @@ h1 {
   margin-left: 50px;
 }
 
-input[type='submit'] {
+input[type='button'] {
   background-color: grey;
   border: none;
   height: 30px;
